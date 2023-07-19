@@ -1,0 +1,4 @@
+1. try to represent the prob in terms of index
+2. do all possible stuffs on that index according to problem statement
+3. sum of all stuffs -> count all ways
+    min(of all stuffs) -> find min
