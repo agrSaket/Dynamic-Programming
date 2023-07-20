@@ -2,3 +2,14 @@
 2. do all possible stuffs on that index according to problem statement
 3. sum of all stuffs -> count all ways
     min(of all stuffs) -> find min
+
+
+
+
+DP on Grids/2D matrix ------------
+1. count paths
+2. count paths with obstacles
+3. minimum path sum
+4. maximum path sum
+5. triangle problem
+6. 2 start points

@@ -1,4 +1,6 @@
-// maximum sum of non adjacent elements
+// Maximum sum of non adjacent elements
+// You are given an arraylist Of 'N' integers. You are supposed to return the maximum Sum Of the
+// subsequence with the constraint that no two elements are adjacent in the given arraynist.
 #include<bits/stdc++.h>
 using namespace std;
 

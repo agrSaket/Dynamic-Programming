@@ -1,4 +1,15 @@
 // house robber
+/*
+Mr. X is a professional robber planning to rob houses along a street. Each house has a certain
+amount Of money hidden. All houses along this street are arranged in a circle. That means the 
+first house is the neighbor of the lost one. Meanwhile, adjacent houses have a security system
+connected, and it will automatically contact the police if two adjacent houses were broken into 
+on the same night.
+You are given an arraylist Of non-negative integers representing the amount Of money Of
+each house. Your task is to return the maximum amount of money Mr. X can rob tonight without
+alerting the police.
+*/
+
 #include<bits/stdc++.h>
 using namespace std;
 
